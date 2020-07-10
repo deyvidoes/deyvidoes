@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋🏾💻
 
-<!--
-**deyvidoes/deyvidoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Deyvi! I am an android developer who is always excited to learn and try out new things. My first love was Java and I am currently learning Kotlin!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on getting my first developer job.
+- 🌱 I’m currently learning data structures and algorithms as well as automated testing.
+- 👯 I’m looking to collaborate on open source projects that help promote po
+- 💬 Ask me about Java, Kotlin or anything!
+- 📫 How to reach me: 
+   
+   Twitter: https://twitter.com/deyvi_t22
+   
+   LinkedIn: https://www.linkedin.com/in/deyvi-tineo-a1293480/
+- 👀 Fun fact: I am an options trader!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
