@@ -4,7 +4,6 @@ My name is Deyvi! I am an android developer who is always excited to learn and t
 
 - 🔭 I’m currently working on getting my first developer job.
 - 🌱 I’m currently learning data structures and algorithms as well as automated testing.
-- 👯 I’m looking to collaborate on open source projects that help promote po
 - 💬 Ask me about Java, Kotlin or anything!
 - 📫 How to reach me: 
    
