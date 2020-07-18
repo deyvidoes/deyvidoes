@@ -1,6 +1,6 @@
 ### Hi there 👋🏾💻
 
-My name is Deyvi! I am an android developer who is always excited to learn and try out new things. I started learning Java about 10 years ago and started learning Kotlin this year. I'm always willing to help so if you need help with anything, send me a dm ✉😁😁
+My name is Deyvi! I am an android software engineer who is always excited to learn and try out new things. I started learning Java about 10 years ago and started learning Kotlin this year. I'm always willing to help so if you need help with anything, send me a dm ✉😁😁
 
 - 🌱 I’m currently learning data structures and algorithms as well as automated testing
 - 💬 Ask me about Java, Kotlin or anything!
