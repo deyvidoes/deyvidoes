@@ -11,4 +11,5 @@ My name is Deyvi! I am an android software engineer who is always excited to lea
    LinkedIn: https://www.linkedin.com/in/deyvi-tineo-a1293480/
 - 👀 Fun fact: I am an options trader!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidoes)](https://github.com/deyvidoes/github-readme-stats)
 
