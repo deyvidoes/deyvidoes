@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://twitter.com/deyvi_t22**
 
-- ⚡ Fun facts **I am an options trader and I love sports!**
+- ⚡ Fun fact: **I am an options trader and I love sports!**
 
 
 
